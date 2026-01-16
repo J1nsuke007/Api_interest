@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "Nombre":"Accuracy International AS50",
+        "Calibre":".50 BMG",
+        "Operacion":"Semi-Automatico",
+        "Peso":"31 libras (14.1kg)",
+        "SistemaAlimentacion":"5 rondas",
+        "AlcanceMaximo":"1800 metros (2200 yardas)",
+        "Tipo":"Fusil de precisión antimaterial",
+        "Accion":"Funcionamiento de gas"
+    },
+    {
+        "id":2,
+        "Nombre":"Accuracy International AWSM",
+        "Calibre":".338 Lapua Magnum",
+        "Operacion":"Accion de cerrojo",
+        "Peso":"14.9 libras (6.6kg)",
+        "SistemaAlimentacion":"5 rondas",
+        "AlcanceMaximo":"1500 metros (1600 yardas)",
+        "Tipo":"Rifle de francotirador de cerrojo"
+        
+    },
+    {
+        "id":3,
+        "Nombre":"Barrett m107",
+        "Calibre":".50 BMG",
+        "Operacion":"Semi-Automatico",
+        "Peso":"29.7 libras (12.57kg)",
+        "SistemaAlimentacion":"5 rondas",
+        "AlcanceMaximo":"1800 metros (2200 yardas)",
+        "Tipo":"Fusil de precisión antimaterial"
+    },
+    {
+        "id":4,
+        "Nombre":"Cheytac M-200",
+        "Calibre":".408 Cheytac",
+        "Operacion":"Accion de cerrono",
+        "Peso":"27 libras (12.25kg)",
+        "SistemaAlimentacion":"7 rondas",
+        "AlcanceMaximo":"2300 metros",
+        "Tipo":"Fusil de francotirador de cerrojo"
+    }
+]
